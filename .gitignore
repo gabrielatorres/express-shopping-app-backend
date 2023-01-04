@@ -1,0 +1,4 @@
+node_modules
+.vscode
+config/.env.development
+config/firebase/firebase_credentials.json

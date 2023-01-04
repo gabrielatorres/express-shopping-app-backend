@@ -1,0 +1,14 @@
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+trim_trailing_whitespace = true
+
+# Set default charset
+charset = utf-8
+
+# Indentation override for all JS under api directory
+[api/**.js]
+indent_style = space
+indent_size = 2
+tab_width = 2
+insert_final_newline = true
